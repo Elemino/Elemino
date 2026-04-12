@@ -1,4 +1,4 @@
-
+<p align="center">
   <svg width="600" height="200" viewBox="0 0 600 200" xmlns="http://w3.org">
     <defs>
       <filter id="distort">
@@ -24,3 +24,4 @@
       Elemino
     </text>
   </svg>
+</p>
