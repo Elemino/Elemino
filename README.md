@@ -1,4 +1,4 @@
-![Elemino Logo](./Elemino.svg)
+![Elemino Logo](https://githubusercontent.com)
 
 
 ### Greetings
