@@ -5,5 +5,5 @@
 -  I’m looking to collaborate on anything Web 3.0, AR, Autonomous Vehicles, and IOT.
 
 
-![Alt text](./Elemino.svg)
+!(./Elemino.svg)
 <img src="./Elemino.svg">
