@@ -1,4 +1,4 @@
-![Elemino](./elemino.svg)
+![Elemino](./Elemino.svg)
 
 
 ### Greetings
